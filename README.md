@@ -20,4 +20,10 @@ The goal is to observe the performance differences—particularly if running in 
 This project requires a C++11-compliant compiler. To compile, simply run:
 
 ```bash
-make
+ g++ -std=c++11 main.cpp -o main
+```
+
+To run: 
+```bash
+./main
+```
