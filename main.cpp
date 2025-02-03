@@ -9,9 +9,6 @@
  * How to use:
  *   - Set USE_THREADS to 1 to run the operations concurrently.
  *   - Set USE_THREADS to 0 to run them sequentially.
- *
- * Build with a C++11-compliant compiler, e.g.:
- *     g++ -std=c++11 -O2 main.cpp -o main
  */
 
 #include <iostream>
