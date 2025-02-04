@@ -15,7 +15,7 @@ The goal is to observe the performance differences—particularly if running in 
 - **Switch between Sequential and Threaded Execution**  
   Change the `USE_THREADS` macro in `main.cpp` to `1` to run in threaded mode or to `0` for sequential execution.
 
-## Building
+## Build & Run
 
 This project requires a C++11-compliant compiler. To compile, simply run:
 
