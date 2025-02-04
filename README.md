@@ -17,13 +17,20 @@ The goal is to observe the performance differences—particularly if running in 
 
 ## Build & Run
 
-This project requires a C++11-compliant compiler. To compile, simply run:
 
-```bash
- g++ -std=c++11 main.cpp -o main
-```
+1. **Clone** this repository:
+   ```bash
+   git clone https://github.com/zgrigoryan/false-sharing.git
+   cd false-sharing
+   ```
 
-To run: 
-```bash
-./main
-```
+2. **Compile** the project using a C++11-compliant compiler:
+
+  ```bash
+  g++ -std=c++11 main.cpp -o main
+  ```
+
+3. **Run** the compiled program:
+  ```bash
+  ./main
+  ```
